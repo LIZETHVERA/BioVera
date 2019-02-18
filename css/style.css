@@ -19,7 +19,34 @@ h1{
     font-size: 28px;
 
 }
+h2{
+    font-size: 24px;
+}
 #main-bio{
     width: 70%;
-    color: brown;
-    }
+    float: left;
+    text-align: justify;
+    
+}
+.container{ 
+    width: 1025px;
+    margin: auto;
+    line-height: 1.5;
+    
+}
+
+#bio-image{
+    float: left;
+    width: 200px;
+    margin: 10px;
+}
+
+#contact-info{
+    float: left;
+    width: 30%;
+}
+
+a{
+    color: #d21034;
+    
+}
